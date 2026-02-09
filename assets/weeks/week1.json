@@ -6,13 +6,13 @@
 	],
 
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"tcdbear",
+		"tcdbf",
+		"tcdgf"
 	],
 	"weekBackground": "stage",
 
-	"storyName": "Daddy Dearest",
+	"storyName": "Vs The Dropout",
 	"weekBefore": "tutorial",
 	"weekName": "Week 1",
 	"startUnlocked": true,
