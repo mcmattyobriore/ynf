@@ -1,0 +1,24 @@
+{
+  "songs": [
+    ["intro", "tcdbear", [146, 113, 253]],
+    ["we-dont-care", "tcdbear", [146, 113, 253]],
+    ["all-falls-down", "tcdbear", [146, 113, 253]],
+    ["the-new-workout-plan", "tcdbear", [146, 113, 253]],
+    ["through-the-wire", "tcdbear", [146, 113, 253]]
+  ],
+
+  "weekCharacters": [
+    "tcdbear",
+    "tcdbf",
+    "tcdgf"
+  ],
+  "weekBackground": "tcd-lit",
+
+  "storyName": "Vs The Dropout",
+  "weekBefore": "week6",
+  "weekName": "tcd",
+  "startUnlocked": true,
+
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}
