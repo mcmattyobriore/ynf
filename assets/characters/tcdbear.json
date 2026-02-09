@@ -1,0 +1,57 @@
+{
+  "animations": [
+    {
+      "anim": "idle",
+      "name": "Idle",
+      "fps": 9,
+      "loop": true,
+      "offsets": [0, -214],
+      "indices": []
+    },
+    {
+      "anim": "singLEFT",
+      "name": "LEFT",
+      "fps": 12,
+      "loop": false,
+      "offsets": [54, -210],
+      "indices": []
+    },
+    {
+      "anim": "singDOWN",
+      "name": "DOWN",
+      "fps": 12,
+      "loop": false,
+      "offsets": [3, -241],
+      "indices": []
+    },
+    {
+      "anim": "singUP",
+      "name": "UP",
+      "fps": 12,
+      "loop": false,
+      "offsets": [7, -185],
+      "indices": []
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "RIGHT",
+      "fps": 12,
+      "loop": false,
+      "offsets": [0, -214],
+      "indices": []
+    }
+  ],
+
+  "image": "characters/tcd/tcdbear/tcdbear",
+  "scale": 1.2,
+  "sing_duration": 4,
+
+  "position": [0, 350],
+  "camera_position": [10, 300],
+
+  "healthicon": "tcdbear",
+  "flip_x": false,
+  "no_antialiasing": false,
+
+  "healthbar_colors": [146, 113, 253]
+}
