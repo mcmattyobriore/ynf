@@ -1,0 +1,23 @@
+{
+  "animations": [
+    {
+      "anim": "idle",
+      "name": "IDLE",
+      "fps": 9,
+      "loop": true,
+      "offsets": [0, -250],
+      "indices": []
+    }
+  ],
+
+  "image": "characters/tcd/tcdgf/tcdgf",
+  "scale": 1.2,
+  "sing_duration": 4,
+
+  "position": [0, 350],
+  "camera_position": [10, 300],
+
+  "healthicon": "tcdgf",
+  "flip_x": false,
+  "no_antialiasing": false
+}
